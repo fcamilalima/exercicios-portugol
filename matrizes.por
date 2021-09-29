@@ -5,6 +5,7 @@ programa
 	{
 		cadeia cesta[][] = {{"Pêra", "100"}, {"Jaca", "200"}, {"Maçã", "900"}}
 		inteiro contador = 0
+		
 		faca{
 			escreva("Produto: " + cesta[contador][0] + "\nQuantidade: " + cesta[contador][1] + "\n")
 			contador++
@@ -16,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 269; 
+ * @POSICAO-CURSOR = 131; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
