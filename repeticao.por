@@ -9,6 +9,7 @@ programa
 		
 		escreva("Digite o valor da tabuada que você deseja obter o resultado: \n")
 		leia(tabuada)
+		
 		faca{
 			resultado = tabuada * contador
 			escreva(tabuada + " X " + contador + " = " + resultado + "\n")
@@ -22,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 111; 
+ * @POSICAO-CURSOR = 207; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
