@@ -1,11 +1,9 @@
 programa
 {
-<<<<<<< HEAD
+
 	// Programa sobre matrizes
 	// Autor: Camila Lima
-=======
-	
->>>>>>> 201d595b34ec95aaec4793f05a7f8e3c0bf04869
+
 	funcao inicio()
 	{
 		cadeia cesta[][] = {{"Pêra", "100"}, {"Jaca", "200"}, {"Maçã", "900"}}
@@ -22,11 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
-<<<<<<< HEAD
- * @POSICAO-CURSOR = 61; 
-=======
- * @POSICAO-CURSOR = 131; 
->>>>>>> 201d595b34ec95aaec4793f05a7f8e3c0bf04869
+ * @POSICAO-CURSOR = 11; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
